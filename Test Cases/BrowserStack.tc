@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Login Test Case</name>
+   <name>BrowserStack</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>7fa0e048-e2f2-44ee-b479-115360576796</testCaseGuid>
+   <testCaseGuid>f9c53c7c-1d6a-4ea7-9bd5-ff33a79f37ca</testCaseGuid>
 </TestCaseEntity>

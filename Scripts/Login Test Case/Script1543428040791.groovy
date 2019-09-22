@@ -14,7 +14,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+//WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://id.atlassian.com/login?continue=https%3A%2F%2Fkatalon.atlassian.net%2Flogin%3FredirectCount%3D1')
 
@@ -34,7 +34,7 @@ WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input
 
 WebUI.click(findTestObject('Object Repository/Page_Sign in to your account/input_concat(Don  t show this'))
 
-WebUI.verifyElementText(findTestObject('Page_System dashboard - Jira/h1_System dashboard'), 'System dashboard')
+//WebUI.verifyElementText(findTestObject('Page_System dashboard - Jira/h1_System dashboard'), 'System dashboard')
 
 WebUI.closeBrowser()
 

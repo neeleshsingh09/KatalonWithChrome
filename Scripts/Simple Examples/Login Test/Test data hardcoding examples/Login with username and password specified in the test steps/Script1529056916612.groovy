@@ -50,6 +50,6 @@ WebUI.click(findTestObject('Test Objects/Pages/Login Page/elSignin'))
 WebUI.click(findTestObject('Test Objects/Pages/Login Page/elYes'))
 
 WebUI.waitForElementVisible(findTestObject('Test Objects/Pages/Dashboard Page/elHeader'), 60)
-
-WebUI.verifyTextPresent('System dashboard', false)
+WebUI.closeBrowser()
+//WebUI.verifyTextPresent('System dashboard', false)
 

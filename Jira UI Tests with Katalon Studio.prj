@@ -3,7 +3,7 @@
    <description>This is sample project of UI testing for Jira System using Katalon Studio</description>
    <name>Jira UI Tests with Katalon Studio</name>
    <tag></tag>
-   <UUID>cedae2b6-ef6a-4041-8c22-62cc4ca8e267</UUID>
+   <UUID>25385101-58f8-4324-88b7-304a4f903f09</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -24,5 +24,5 @@
          </systemFolderConfiguration>
       </systemFolderList>
    </sourceContent>
-   <type>GENERIC</type>
+   <type>WEBUI</type>
 </Project>
